@@ -120,6 +120,8 @@ h2 {
 .footer {
     grid-column: span 5;
     grid-row-start: 6;
+    color: #f2f2f2;
+    background-color:#80a2a6;
 }
 
 .reseñaT{
